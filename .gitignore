@@ -1,4 +1,4 @@
-
+  
 /trenchbroom/
 /source/
 /tools/
@@ -11,6 +11,12 @@
 Quakespasm.html
 Quakespasm.txt
 Quakespasm-Music.txt
+wads/hipnotic.wad
+wads/id1.wad
+wads/prototype.txt
+wads/prototype_1_2.wad
+wads/rogue.wad
+wads/START.WAD
 history.txt
 LICENSE.txt
 *.prt
