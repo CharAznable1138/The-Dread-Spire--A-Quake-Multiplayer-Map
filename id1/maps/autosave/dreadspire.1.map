@@ -1,0 +1,48 @@
+// Game: Quake
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"wad" "C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad"
+// brush 0
+{
+( -384 -64 -16 ) ( -384 -63 -16 ) ( -384 -64 -15 ) 128_grey_3 0 0 0 1 1
+( -64 -896 -16 ) ( -64 -896 -15 ) ( -63 -896 -16 ) 128_grey_3 0 0 0 1 1
+( -64 -64 -16 ) ( -63 -64 -16 ) ( -64 -63 -16 ) 128_grey_3 0 0 0 1 1
+( 64 64 16 ) ( 64 65 16 ) ( 65 64 16 ) 128_grey_3 0 0 0 1 1
+( 64 64 16 ) ( 65 64 16 ) ( 64 64 17 ) 128_grey_3 0 0 0 1 1
+( 576 64 16 ) ( 576 64 17 ) ( 576 65 16 ) 128_grey_3 0 0 0 1 1
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"origin" "0 0 40"
+}
+// entity 2
+{
+"classname" "light"
+"origin" "88 -88 168"
+}
+// entity 3
+{
+"classname" "light"
+"origin" "296 -248 168"
+}
+// entity 4
+{
+"classname" "light"
+"origin" "488 -376 168"
+}
+// entity 5
+{
+"classname" "light"
+"origin" "152 -440 168"
+"angle" "270"
+}
+// entity 6
+{
+"classname" "light"
+"origin" "440 -40 168"
+"angle" "270"
+}
