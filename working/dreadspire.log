@@ -4,36 +4,36 @@ Output file: dreadspire.bsp
 
 ---- LoadMapFile ----
 *** WARNING 05: No info_player_start entity in level
-         2028 faces
-          296 brushes
-           63 entities
+         1988 faces
+          288 brushes
+           75 entities
             6 unique texnames
-          104 texinfo
+          115 texinfo
 
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          184 brushes
-          502 planes
+          172 brushes
+          482 planes
 ---- CSGFaces ----
-         1356 brushfaces
-         1948 csgfaces
-         1729 mergedfaces
+         1292 brushfaces
+         1892 csgfaces
+         1673 mergedfaces
 ---- SolidBSP ----
-         1862 split nodes
-          469 solid leafs
-         1394 empty leafs
+         1685 split nodes
+          419 solid leafs
+         1267 empty leafs
             0 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         5048 leaffaces
-         3881 nodefaces
+         4781 leaffaces
+         3646 nodefaces
 ---- Portalize ----
-         1394 vis leafs
-         1394 vis clusters
-         4239 vis portals
+         1267 vis leafs
+         1267 vis clusters
+         3828 vis portals
 ---- FillOutside ----
 *** WARNING 10: Reached occupant at (1048 -408 968), no filling performed.
 Leak file written to dreadspire.pts
@@ -45,20 +45,20 @@ Processing hull 2...
 *** WARNING 10: Reached occupant at (1048 -408 968), no filling performed.
 ---- WriteBSPFile ----
 Wrote dreadspire.bsp
-          980 planes            19600
-         4649 vertexes          55788
-         1862 nodes             44688
-           29 texinfo            1160
-         3881 faces             77620
-         4113 clipnodes         32904
-         1395 leafs             39060
-         5048 marksurfaces      10096
-        14867 surfedges         59468
-         9965 edges             39860
+          944 planes            18880
+         4406 vertexes          52872
+         1709 nodes             41016
+           40 texinfo            1600
+         3670 faces             73400
+         3955 clipnodes         31640
+         1292 leafs             36176
+         4805 marksurfaces       9610
+        14043 surfedges         56172
+         9418 edges             37672
             6 textures          65548
               lightdata             0
               visdata               0
-              entdata            3816
+              entdata            4807
 
-0.404 seconds elapsed
-Peak memory usage: 21815032 (20.8M)
+0.409 seconds elapsed
+Peak memory usage: 20763062 (19.8M)
