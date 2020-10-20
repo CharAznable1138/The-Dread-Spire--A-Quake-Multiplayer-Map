@@ -1,0 +1,64 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: dreadspire_shorter.map
+Output file: dreadspire_shorter.bsp
+
+---- LoadMapFile ----
+*** WARNING 05: No info_player_start entity in level
+         1864 faces
+          236 brushes
+           59 entities
+            7 unique texnames
+          297 texinfo
+
+Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          140 brushes
+          431 planes
+---- CSGFaces ----
+         1100 brushfaces
+         1794 csgfaces
+         1580 mergedfaces
+---- SolidBSP ----
+         1495 split nodes
+          439 solid leafs
+         1057 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         4129 leaffaces
+         3075 nodefaces
+---- Portalize ----
+         1057 vis leafs
+         1057 vis clusters
+         2917 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (1048 -408 968), no filling performed.
+Leak file written to dreadspire_shorter.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 10: Reached occupant at (1048 -408 968), no filling performed.
+Processing hull 2...
+*** WARNING 10: Reached occupant at (1048 -408 968), no filling performed.
+---- WriteBSPFile ----
+Wrote dreadspire_shorter.bsp
+         1172 planes            23440
+         4294 vertexes          51528
+         1771 nodes             42504
+          214 texinfo            8560
+         3387 faces             67740
+         3466 clipnodes         27728
+         1318 leafs             36904
+         4469 marksurfaces       8938
+        13253 surfedges         53012
+         9020 edges             36080
+            7 textures          87352
+              lightdata             0
+              visdata               0
+              entdata            4203
+
+0.353 seconds elapsed
+Peak memory usage: 17603902 (16.8M)
