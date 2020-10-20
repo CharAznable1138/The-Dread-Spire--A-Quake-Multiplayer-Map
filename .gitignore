@@ -2,6 +2,7 @@
 /trenchbroom/
 /source/
 /tools/
+/id1/maps/autosave/
 *.PAK
 *.dll
 *.zip
