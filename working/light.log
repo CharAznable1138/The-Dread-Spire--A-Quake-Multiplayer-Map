@@ -1,33 +1,33 @@
 ---- light / ericw-tools v0.18.1 ----
 Raytracing backend: Embree
 running with 8 threads
-LoadBSPFile: 'dreadspire_shorter.bsp'
+LoadBSPFile: 'dreadspire.bsp'
 BSP is version 29
 --- LoadEntities ---
-58 entities read, 13 are lights.
+72 entities read, 20 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	3075 solid faces
+	4501 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 13 initial lights
-SetupLights: 13 after surface lights
-SetupLights: 13 after jittering
+SetupLights: 20 initial lights
+SetupLights: 20 after surface lights
+SetupLights: 20 after jittering
 --- EstimateLightVisibility ---
-0....1....2....3....4....5....6....7....8....9.
-Final count: 13 lights 0 suns in use.
+0....1....2....3....4....5....6....7....8....9..
+Final count: 20 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 70718
+lightdatasize: 104096
 0 switchable light styles (32 max)
-Writing dreadspire_shorter.bsp as BSP version 29
-0.237 seconds elapsed
+Writing dreadspire.bsp as BSP version 29
+0.276 seconds elapsed
 
 stats:
-1.677314 lights tested, 0.881749 hits per sample point
+2.095123 lights tested, 1.284739 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
