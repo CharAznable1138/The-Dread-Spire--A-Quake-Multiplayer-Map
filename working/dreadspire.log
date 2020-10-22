@@ -6,7 +6,7 @@ Output file: dreadspire.bsp
 *** WARNING 05: No info_player_start entity in level
          2803 faces
           382 brushes
-           90 entities
+           96 entities
            10 unique texnames
           266 texinfo
 
@@ -78,7 +78,7 @@ Wrote dreadspire.bsp
            10 textures         136404
               lightdata             0
               visdata               0
-              entdata            5291
+              entdata            5617
 
 0.633 seconds elapsed
-Peak memory usage: 22496552 (21.5M)
+Peak memory usage: 22496840 (21.5M)

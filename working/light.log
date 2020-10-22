@@ -4,7 +4,7 @@ running with 8 threads
 LoadBSPFile: 'dreadspire.bsp'
 BSP is version 29
 --- LoadEntities ---
-79 entities read, 19 are lights.
+85 entities read, 19 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
@@ -25,7 +25,7 @@ Lighting Completed.
 lightdatasize: 91536
 0 switchable light styles (32 max)
 Writing dreadspire.bsp as BSP version 29
-0.394 seconds elapsed
+0.387 seconds elapsed
 
 stats:
 2.817756 lights tested, 1.731151 hits per sample point
