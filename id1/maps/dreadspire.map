@@ -3,7 +3,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"wad" "C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad"
+"wad" "C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad;C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/id1.wad"
 // brush 0
 {
 ( -384 -64 -16 ) ( -384 -63 -16 ) ( -384 -64 -15 ) 128_grey_3 0 0 0 1 1
@@ -1643,7 +1643,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Catwalk"
-"_tb_id" "37"
+"_tb_id" "1"
 // brush 0
 {
 ( -384 0 416 ) ( -384 64 400 ) ( -384 64 416 ) 128_grey_3 0 0 0 1 1
@@ -1704,7 +1704,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Catwalk"
-"_tb_id" "38"
+"_tb_id" "2"
 // brush 0
 {
 ( 448 -624 816 ) ( 448 -640 800 ) ( 448 -624 800 ) 128_grey_3 0 0 0 1 1
@@ -1765,7 +1765,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase"
-"_tb_id" "39"
+"_tb_id" "3"
 // brush 0
 {
 ( 320 0 304 ) ( 320 64 288 ) ( 320 64 304 ) 128_grey_3 0 0 0 1 1
@@ -1988,7 +1988,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase"
-"_tb_id" "40"
+"_tb_id" "4"
 // brush 0
 {
 ( -144 -832 304 ) ( -144 -896 288 ) ( -144 -832 288 ) 128_grey_3 0 0 0 1 1
@@ -2211,7 +2211,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase"
-"_tb_id" "41"
+"_tb_id" "5"
 // brush 0
 {
 ( -384 -176 704 ) ( -384 -192 688 ) ( -384 -176 688 ) 128_grey_3 0 0 0 1 1
@@ -2434,7 +2434,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase"
-"_tb_id" "42"
+"_tb_id" "6"
 // brush 0
 {
 ( 512 -640 704 ) ( 512 -656 688 ) ( 512 -640 688 ) 128_grey_3 0 0 0 1 1
@@ -2724,67 +2724,67 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "2F Deathmatch Spawns"
-"_tb_id" "43"
+"_tb_id" "7"
 }
 // entity 20
 {
 "classname" "info_player_deathmatch"
 "origin" "16 32 440"
 "angle" "270"
-"_tb_group" "43"
+"_tb_group" "7"
 }
 // entity 21
 {
 "classname" "info_player_deathmatch"
 "origin" "176 16 440"
-"_tb_group" "43"
+"_tb_group" "7"
 }
 // entity 22
 {
 "classname" "info_player_deathmatch"
 "origin" "528 -336 440"
 "angle" "180"
-"_tb_group" "43"
+"_tb_group" "7"
 }
 // entity 23
 {
 "classname" "info_player_deathmatch"
 "origin" "544 -544 440"
 "angle" "180"
-"_tb_group" "43"
+"_tb_group" "7"
 }
 // entity 24
 {
 "classname" "info_player_deathmatch"
 "origin" "176 -848 440"
 "angle" "90"
-"_tb_group" "43"
+"_tb_group" "7"
 }
 // entity 25
 {
 "classname" "info_player_deathmatch"
 "origin" "16 -848 440"
 "angle" "180"
-"_tb_group" "43"
+"_tb_group" "7"
 }
 // entity 26
 {
 "classname" "info_player_deathmatch"
 "origin" "-336 -496 440"
-"_tb_group" "43"
+"_tb_group" "7"
 }
 // entity 27
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -288 440"
-"_tb_group" "43"
+"_tb_group" "7"
 }
 // entity 28
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "44"
+"_tb_id" "8"
 // brush 0
 {
 ( 320 0 408 ) ( 320 64 400 ) ( 320 64 408 ) clip 0 0 0 1 1
@@ -3007,7 +3007,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "45"
+"_tb_id" "9"
 // brush 0
 {
 ( -136 -896 408 ) ( -136 -832 400 ) ( -136 -832 408 ) clip 0 0 180 1 -1
@@ -3230,7 +3230,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "46"
+"_tb_id" "10"
 // brush 0
 {
 ( 512 -648 808 ) ( 512 -640 800 ) ( 512 -640 808 ) clip 16 16 0 1 1
@@ -3453,7 +3453,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "47"
+"_tb_id" "11"
 // brush 0
 {
 ( -384 -184 808 ) ( -384 -192 800 ) ( -384 -184 800 ) clip -48 16 180 1 -1
