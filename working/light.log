@@ -9,7 +9,7 @@ BSP is version 29
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	28 sky faces
-	2884 solid faces
+	2883 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 19 initial lights
@@ -22,12 +22,12 @@ Final count: 19 lights 0 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 91536
+lightdatasize: 91550
 0 switchable light styles (32 max)
 Writing dreadspire.bsp as BSP version 29
-0.387 seconds elapsed
+0.401 seconds elapsed
 
 stats:
-2.817756 lights tested, 1.731151 hits per sample point
+2.818394 lights tested, 1.731691 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

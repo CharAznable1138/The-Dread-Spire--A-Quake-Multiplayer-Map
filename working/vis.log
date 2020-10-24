@@ -11,7 +11,7 @@ Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
 average leafs visible: 331
 c_noclip: 0
-c_chains: 7792881
-visdatasize:48092  compressed from 54863
+c_chains: 7779878
+visdatasize:48093  compressed from 54863
 Writing dreadspire.bsp as BSP version 29
-  4.3 seconds elapsed
+  4.4 seconds elapsed
