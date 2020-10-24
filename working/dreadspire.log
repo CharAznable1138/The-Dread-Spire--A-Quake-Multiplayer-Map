@@ -6,9 +6,9 @@ Output file: dreadspire.bsp
 *** WARNING 05: No info_player_start entity in level
          2857 faces
           391 brushes
-           96 entities
+           92 entities
            13 unique texnames
-          314 texinfo
+          324 texinfo
 
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/id1.wad
@@ -18,8 +18,8 @@ Processing hull 0...
           651 planes
 ---- CSGFaces ----
          1781 brushfaces
-         2553 csgfaces
-         2232 mergedfaces
+         2466 csgfaces
+         2230 mergedfaces
 ---- SolidBSP ----
          2331 split nodes
           700 solid leafs
@@ -34,30 +34,30 @@ Processing hull 0...
 ---- Portalize ----
          1632 vis leafs
          1632 vis clusters
-         4800 vis portals
+         4798 vis portals
 ---- FillOutside ----
           394 outleafs
 ---- MergeAll ----
-         2249 mergefaces
+         2248 mergefaces
 ---- SolidBSP ----
-          980 split nodes
-          304 solid leafs
+          981 split nodes
+          305 solid leafs
           673 empty leafs
             4 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         4678 leaffaces
-         2906 nodefaces
+         4682 leaffaces
+         2909 nodefaces
 ---- Portalize ----
           677 vis leafs
           677 vis clusters
          1701 vis portals
 ---- Tjunc ----
-         2731 world edges
-         9973 edge points
-         2915 edges added by tjunctions
+         2736 world edges
+         9975 edge points
+         2902 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -67,13 +67,13 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote dreadspire.bsp
          1493 planes            29860
-         4387 vertexes          52644
-         1328 nodes             31872
-          165 texinfo            6600
-         3218 faces             64360
-         3411 clipnodes         27288
+         4384 vertexes          52608
+         1329 nodes             31896
+          182 texinfo            7280
+         3221 faces             64420
+         3410 clipnodes         27280
          1010 leafs             28280
-         5018 marksurfaces      10036
+         5022 marksurfaces      10044
         15342 surfedges         61368
          7672 edges             30688
            13 textures         152856
@@ -81,5 +81,5 @@ Wrote dreadspire.bsp
               visdata               0
               entdata            5703
 
-0.637 seconds elapsed
-Peak memory usage: 22895344 (21.8M)
+0.623 seconds elapsed
+Peak memory usage: 22910480 (21.8M)
