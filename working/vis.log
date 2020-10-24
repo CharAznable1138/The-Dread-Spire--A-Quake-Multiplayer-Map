@@ -3,15 +3,15 @@ running with 8 threads
 testlevel = 4
 LoadBSPFile: 'dreadspire.bsp'
 BSP is version 29
-   661 leafs
-  1634 portals
+   677 leafs
+  1701 portals
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 331
+average leafs visible: 344
 c_noclip: 0
-c_chains: 7779878
-visdatasize:48093  compressed from 54863
+c_chains: 8987527
+visdatasize:51127  compressed from 57545
 Writing dreadspire.bsp as BSP version 29
-  4.4 seconds elapsed
+  4.9 seconds elapsed
