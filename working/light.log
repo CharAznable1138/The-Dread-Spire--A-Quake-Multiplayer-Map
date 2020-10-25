@@ -1,4 +1,5 @@
 ---- light / ericw-tools v0.18.1 ----
+extra 4x4 sampling enabled
 Raytracing backend: Embree
 running with 8 threads
 LoadBSPFile: 'dreadspire.bsp'
@@ -22,12 +23,12 @@ Final count: 19 lights 0 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 94285
+lightdatasize: 94381
 0 switchable light styles (32 max)
 Writing dreadspire.bsp as BSP version 29
-0.433 seconds elapsed
+0.788 seconds elapsed
 
 stats:
-2.860996 lights tested, 1.753730 hits per sample point
+2.767065 lights tested, 1.694752 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

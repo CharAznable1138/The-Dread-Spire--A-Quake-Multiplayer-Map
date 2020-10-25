@@ -7,8 +7,8 @@ Output file: dreadspire.bsp
          2881 faces
           395 brushes
            96 entities
-           18 unique texnames
-          450 texinfo
+           19 unique texnames
+          456 texinfo
 
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/id1.wad
@@ -29,7 +29,7 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         6428 leaffaces
+         6430 leaffaces
          4926 nodefaces
 ---- Portalize ----
          1632 vis leafs
@@ -48,12 +48,12 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         4772 leaffaces
+         4796 leaffaces
          2952 nodefaces
 ---- Portalize ----
           679 vis leafs
           679 vis clusters
-         1696 vis portals
+         1706 vis portals
 ---- Tjunc ----
          2736 world edges
         10112 edge points
@@ -69,17 +69,17 @@ Wrote dreadspire.bsp
          1497 planes            29940
          4457 vertexes          53484
          1366 nodes             32784
-          287 texinfo           11480
+          291 texinfo           11640
          3264 faces             65280
-         3472 clipnodes         27776
+         3474 clipnodes         27792
          1036 leafs             29008
-         5112 marksurfaces      10224
+         5136 marksurfaces      10272
         15574 surfedges         62296
          7788 edges             31152
-           18 textures         180276
+           19 textures         185760
               lightdata             0
               visdata               0
-              entdata            5879
+              entdata            5871
 
-0.685 seconds elapsed
-Peak memory usage: 23023984 (22.0M)
+0.676 seconds elapsed
+Peak memory usage: 23031056 (22.0M)
