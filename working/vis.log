@@ -9,9 +9,9 @@ Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 341
+average leafs visible: 340
 c_noclip: 0
-c_chains: 8648962
+c_chains: 8653143
 visdatasize:52036  compressed from 57715
 Writing dreadspire.bsp as BSP version 29
-  5.0 seconds elapsed
+  4.6 seconds elapsed

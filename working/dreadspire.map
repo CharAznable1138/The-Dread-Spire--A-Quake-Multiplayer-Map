@@ -15,12 +15,12 @@
 }
 // brush 1
 {
-( -384 -64 976 ) ( -384 -63 976 ) ( -384 -64 977 ) 128_grey_3 0 0 0 1 1
-( -64 -896 976 ) ( -64 -896 977 ) ( -63 -896 976 ) 128_grey_3 0 0 0 1 1
-( -64 -64 976 ) ( -63 -64 976 ) ( -64 -63 976 ) 128_grey_3 0 0 0 1 1
-( 64 64 1008 ) ( 64 65 1008 ) ( 65 64 1008 ) 128_grey_3 0 0 0 1 1
-( 64 64 1008 ) ( 65 64 1008 ) ( 64 64 1009 ) 128_grey_3 0 0 0 1 1
-( 576 64 1008 ) ( 576 64 1009 ) ( 576 65 1008 ) 128_grey_3 0 0 0 1 1
+( -384 -64 976 ) ( -384 -63 976 ) ( -384 -64 977 ) ceiling1_3 0 0 0 1 1
+( -64 -896 976 ) ( -64 -896 977 ) ( -63 -896 976 ) ceiling1_3 0 0 0 1 1
+( -64 -64 976 ) ( -63 -64 976 ) ( -64 -63 976 ) wall9_8 0 0 0 1 1
+( 64 64 1008 ) ( 64 65 1008 ) ( 65 64 1008 ) ceiling1_3 0 0 0 1 1
+( 64 64 1008 ) ( 65 64 1008 ) ( 64 64 1009 ) ceiling1_3 0 0 0 1 1
+( 576 64 1008 ) ( 576 64 1009 ) ( 576 65 1008 ) ceiling1_3 0 0 0 1 1
 }
 // brush 2
 {
@@ -2588,7 +2588,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Catwalk"
-"_tb_id" "176"
+"_tb_id" "183"
 // brush 0
 {
 ( -384 0 416 ) ( -384 64 400 ) ( -384 64 416 ) 128_grey_3 0 0 0 1 1
@@ -2649,7 +2649,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Catwalk"
-"_tb_id" "177"
+"_tb_id" "184"
 // brush 0
 {
 ( 448 -624 816 ) ( 448 -640 800 ) ( 448 -624 800 ) 128_grey_3 0 0 0 1 1
@@ -2777,67 +2777,67 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "2F Deathmatch Spawns"
-"_tb_id" "178"
+"_tb_id" "185"
 }
 // entity 16
 {
 "classname" "info_player_deathmatch"
 "origin" "16 32 440"
 "angle" "270"
-"_tb_group" "178"
+"_tb_group" "185"
 }
 // entity 17
 {
 "classname" "info_player_deathmatch"
 "origin" "176 16 440"
-"_tb_group" "178"
+"_tb_group" "185"
 }
 // entity 18
 {
 "classname" "info_player_deathmatch"
 "origin" "528 -336 440"
 "angle" "180"
-"_tb_group" "178"
+"_tb_group" "185"
 }
 // entity 19
 {
 "classname" "info_player_deathmatch"
 "origin" "544 -544 440"
 "angle" "180"
-"_tb_group" "178"
+"_tb_group" "185"
 }
 // entity 20
 {
 "classname" "info_player_deathmatch"
 "origin" "176 -848 440"
 "angle" "90"
-"_tb_group" "178"
+"_tb_group" "185"
 }
 // entity 21
 {
 "classname" "info_player_deathmatch"
 "origin" "16 -848 440"
 "angle" "180"
-"_tb_group" "178"
+"_tb_group" "185"
 }
 // entity 22
 {
 "classname" "info_player_deathmatch"
 "origin" "-336 -496 440"
-"_tb_group" "178"
+"_tb_group" "185"
 }
 // entity 23
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -288 440"
-"_tb_group" "178"
+"_tb_group" "185"
 }
 // entity 24
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "179"
+"_tb_id" "186"
 // brush 0
 {
 ( 320 0 408 ) ( 320 64 400 ) ( 320 64 408 ) clip 0 0 0 1 1
@@ -3060,7 +3060,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "180"
+"_tb_id" "187"
 // brush 0
 {
 ( -136 -896 408 ) ( -136 -832 400 ) ( -136 -832 408 ) clip 0 0 180 1 -1
@@ -3283,7 +3283,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "181"
+"_tb_id" "188"
 // brush 0
 {
 ( 512 -648 808 ) ( 512 -640 800 ) ( 512 -640 808 ) clip 16 16 0 1 1
@@ -3506,7 +3506,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "182"
+"_tb_id" "189"
 // brush 0
 {
 ( -384 -184 808 ) ( -384 -192 800 ) ( -384 -184 800 ) clip -48 16 180 1 -1
