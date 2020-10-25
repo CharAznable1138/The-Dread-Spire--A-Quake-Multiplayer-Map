@@ -4,60 +4,60 @@ Output file: dreadspire.bsp
 
 ---- LoadMapFile ----
 *** WARNING 05: No info_player_start entity in level
-         3145 faces
-          423 brushes
-           93 entities
+         3265 faces
+          447 brushes
+           94 entities
            27 unique texnames
-          546 texinfo
+          586 texinfo
 
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/id1.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          267 brushes
-          678 planes
+          263 brushes
+          694 planes
 ---- CSGFaces ----
-         2021 brushfaces
-         2651 csgfaces
-         2546 mergedfaces
+         2001 brushfaces
+         2637 csgfaces
+         2524 mergedfaces
 ---- SolidBSP ----
-         2626 split nodes
-          870 solid leafs
-         1749 empty leafs
+         2609 split nodes
+          862 solid leafs
+         1740 empty leafs
             8 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         6592 leaffaces
-         5276 nodefaces
+         6565 leaffaces
+         5249 nodefaces
 ---- Portalize ----
-         1757 vis leafs
-         1757 vis clusters
-         5296 vis portals
+         1748 vis leafs
+         1748 vis clusters
+         5267 vis portals
 ---- FillOutside ----
           476 outleafs
 ---- MergeAll ----
-         2560 mergefaces
+         2533 mergefaces
 ---- SolidBSP ----
-         1152 split nodes
-          339 solid leafs
+         1148 split nodes
+          335 solid leafs
           810 empty leafs
             4 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         4870 leaffaces
-         3270 nodefaces
+         4841 leaffaces
+         3241 nodefaces
 ---- Portalize ----
           814 vis leafs
           814 vis clusters
-         2249 vis portals
+         2282 vis portals
 ---- Tjunc ----
-         3007 world edges
-        11335 edge points
-         3127 edges added by tjunctions
+         2991 world edges
+        11266 edge points
+         3107 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -66,20 +66,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote dreadspire.bsp
-         1553 planes            31060
-         4835 vertexes          58020
-         1524 nodes             36576
-          382 texinfo           15280
-         3582 faces             71640
-         3771 clipnodes         30168
-         1171 leafs             32788
-         5210 marksurfaces      10420
-        16962 surfedges         67848
-         8482 edges             33928
-           27 textures         229632
+         1593 planes            31860
+         4841 vertexes          58092
+         1539 nodes             36936
+          388 texinfo           15520
+         3573 faces             71460
+         3872 clipnodes         30976
+         1187 leafs             33236
+         5201 marksurfaces      10402
+        16932 surfedges         67728
+         8467 edges             33868
+           27 textures         213312
               lightdata             0
               visdata               0
-              entdata            5879
+              entdata            5928
 
-0.842 seconds elapsed
-Peak memory usage: 25229724 (24.1M)
+0.772 seconds elapsed
+Peak memory usage: 25496526 (24.3M)
