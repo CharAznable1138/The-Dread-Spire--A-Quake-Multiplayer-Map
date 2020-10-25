@@ -336,20 +336,20 @@
 }
 // brush 34
 {
-( 130 -472 816 ) ( 128 -464 816 ) ( 128 -464 832 ) altar1_3 0 0 0 1 1
-( 128 -464 816 ) ( 130 -456 816 ) ( 130 -456 832 ) altar1_3 0 0 0 1 1
-( 136 -478 816 ) ( 130 -472 816 ) ( 130 -472 832 ) altar1_3 4.76569 0 0 1 1
-( 130 -456 816 ) ( 136 -450 816 ) ( 136 -450 832 ) altar1_3 0 0 0 1 1
-( 144 -480 816 ) ( 136 -478 816 ) ( 136 -478 832 ) altar1_3 0 0 0 1 1
-( 136 -450 832 ) ( 136 -450 816 ) ( 144 -448 816 ) altar1_3 0 0 0 1 1
+( 130 -472 816 ) ( 128 -464 816 ) ( 128 -464 832 ) altar1_3 0 211.2 0 1 0.833333
+( 128 -464 816 ) ( 130 -456 816 ) ( 130 -456 832 ) altar1_3 0 211.2 0 1 0.833333
+( 136 -478 816 ) ( 130 -472 816 ) ( 130 -472 832 ) altar1_3 4.76569 211.2 0 1 0.833333
+( 130 -456 816 ) ( 136 -450 816 ) ( 136 -450 832 ) altar1_3 0 211.2 0 1 0.833333
+( 144 -480 816 ) ( 136 -478 816 ) ( 136 -478 832 ) altar1_3 0 211.2 0 1 0.833333
+( 136 -450 832 ) ( 136 -450 816 ) ( 144 -448 816 ) altar1_3 0 211.2 0 1 0.833333
 ( 144 -480 816 ) ( 152 -478 816 ) ( 158 -472 816 ) altar1_3 0 0 0 1 1
 ( 158 -472 976 ) ( 152 -478 976 ) ( 144 -480 976 ) altar1_3 0 0 0 1 1
-( 152 -478 832 ) ( 152 -478 816 ) ( 144 -480 816 ) altar1_3 0 0 0 1 1
-( 152 -450 832 ) ( 144 -448 832 ) ( 144 -448 816 ) altar1_3 0 0 0 1 1
-( 158 -472 816 ) ( 152 -478 816 ) ( 152 -478 832 ) altar1_3 0 -16 0 1 1
-( 158 -456 832 ) ( 152 -450 832 ) ( 152 -450 816 ) altar1_3 0 0 0 1 1
-( 160 -464 832 ) ( 160 -464 816 ) ( 158 -472 816 ) altar1_3 0 0 0 1 1
-( 158 -456 832 ) ( 158 -456 816 ) ( 160 -464 816 ) altar1_3 0 0 0 1 1
+( 152 -478 832 ) ( 152 -478 816 ) ( 144 -480 816 ) altar1_3 0 211.2 0 1 0.833333
+( 152 -450 832 ) ( 144 -448 832 ) ( 144 -448 816 ) altar1_3 -8 211.2 0 1 0.833333
+( 158 -472 816 ) ( 152 -478 816 ) ( 152 -478 832 ) altar1_3 0 211.2 0 1 0.833333
+( 158 -456 832 ) ( 152 -450 832 ) ( 152 -450 816 ) altar1_3 0 211.2 0 1 0.833333
+( 160 -464 832 ) ( 160 -464 816 ) ( 158 -472 816 ) altar1_3 0 211.2 0 1 0.833333
+( 158 -456 832 ) ( 158 -456 816 ) ( 160 -464 816 ) altar1_3 0 211.2 0 1 0.833333
 }
 // brush 35
 {
@@ -2588,7 +2588,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Catwalk"
-"_tb_id" "134"
+"_tb_id" "148"
 // brush 0
 {
 ( -384 0 416 ) ( -384 64 400 ) ( -384 64 416 ) 128_grey_3 0 0 0 1 1
@@ -2649,7 +2649,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Catwalk"
-"_tb_id" "135"
+"_tb_id" "149"
 // brush 0
 {
 ( 448 -624 816 ) ( 448 -640 800 ) ( 448 -624 800 ) 128_grey_3 0 0 0 1 1
@@ -2777,67 +2777,67 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "2F Deathmatch Spawns"
-"_tb_id" "136"
+"_tb_id" "150"
 }
 // entity 16
 {
 "classname" "info_player_deathmatch"
 "origin" "16 32 440"
 "angle" "270"
-"_tb_group" "136"
+"_tb_group" "150"
 }
 // entity 17
 {
 "classname" "info_player_deathmatch"
 "origin" "176 16 440"
-"_tb_group" "136"
+"_tb_group" "150"
 }
 // entity 18
 {
 "classname" "info_player_deathmatch"
 "origin" "528 -336 440"
 "angle" "180"
-"_tb_group" "136"
+"_tb_group" "150"
 }
 // entity 19
 {
 "classname" "info_player_deathmatch"
 "origin" "544 -544 440"
 "angle" "180"
-"_tb_group" "136"
+"_tb_group" "150"
 }
 // entity 20
 {
 "classname" "info_player_deathmatch"
 "origin" "176 -848 440"
 "angle" "90"
-"_tb_group" "136"
+"_tb_group" "150"
 }
 // entity 21
 {
 "classname" "info_player_deathmatch"
 "origin" "16 -848 440"
 "angle" "180"
-"_tb_group" "136"
+"_tb_group" "150"
 }
 // entity 22
 {
 "classname" "info_player_deathmatch"
 "origin" "-336 -496 440"
-"_tb_group" "136"
+"_tb_group" "150"
 }
 // entity 23
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -288 440"
-"_tb_group" "136"
+"_tb_group" "150"
 }
 // entity 24
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "137"
+"_tb_id" "151"
 // brush 0
 {
 ( 320 0 408 ) ( 320 64 400 ) ( 320 64 408 ) clip 0 0 0 1 1
@@ -3060,7 +3060,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "138"
+"_tb_id" "152"
 // brush 0
 {
 ( -136 -896 408 ) ( -136 -832 400 ) ( -136 -832 408 ) clip 0 0 180 1 -1
@@ -3283,7 +3283,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "139"
+"_tb_id" "153"
 // brush 0
 {
 ( 512 -648 808 ) ( 512 -640 800 ) ( 512 -640 808 ) clip 16 16 0 1 1
@@ -3506,7 +3506,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "140"
+"_tb_id" "154"
 // brush 0
 {
 ( -384 -184 808 ) ( -384 -192 800 ) ( -384 -184 800 ) clip -48 16 180 1 -1
