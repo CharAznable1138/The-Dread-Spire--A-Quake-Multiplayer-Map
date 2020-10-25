@@ -4,11 +4,11 @@ Output file: dreadspire.bsp
 
 ---- LoadMapFile ----
 *** WARNING 05: No info_player_start entity in level
-         2857 faces
-          391 brushes
-           92 entities
+         2881 faces
+          395 brushes
+           96 entities
            18 unique texnames
-          443 texinfo
+          450 texinfo
 
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/id1.wad
@@ -66,20 +66,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote dreadspire.bsp
-         1493 planes            29860
+         1497 planes            29940
          4457 vertexes          53484
-         1342 nodes             32208
+         1366 nodes             32784
           287 texinfo           11480
          3264 faces             65280
-         3424 clipnodes         27392
-         1012 leafs             28336
+         3472 clipnodes         27776
+         1036 leafs             29008
          5112 marksurfaces      10224
         15574 surfedges         62296
          7788 edges             31152
            18 textures         180276
               lightdata             0
               visdata               0
-              entdata            5711
+              entdata            5879
 
-0.646 seconds elapsed
-Peak memory usage: 22974872 (21.9M)
+0.685 seconds elapsed
+Peak memory usage: 23023984 (22.0M)
