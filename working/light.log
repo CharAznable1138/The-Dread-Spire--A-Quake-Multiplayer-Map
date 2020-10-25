@@ -23,12 +23,12 @@ Final count: 19 lights 0 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 84097
+lightdatasize: 83842
 0 switchable light styles (32 max)
 Writing dreadspire.bsp as BSP version 29
-0.628 seconds elapsed
+0.658 seconds elapsed
 
 stats:
-2.744104 lights tested, 1.634638 hits per sample point
+2.750622 lights tested, 1.637623 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

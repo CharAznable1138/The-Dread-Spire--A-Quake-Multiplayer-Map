@@ -7,8 +7,8 @@ Output file: dreadspire.bsp
          3145 faces
           423 brushes
            93 entities
-           25 unique texnames
-          525 texinfo
+           27 unique texnames
+          546 texinfo
 
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/prototype_1_2.wad
 Opened WAD: C:/Users/maxic/Documents/GitHub/The-Dread-Spire--A-Quake-Multiplayer-Map/wads/id1.wad
@@ -69,17 +69,17 @@ Wrote dreadspire.bsp
          1553 planes            31060
          4835 vertexes          58020
          1524 nodes             36576
-          361 texinfo           14440
+          382 texinfo           15280
          3582 faces             71640
          3771 clipnodes         30168
          1171 leafs             32788
          5210 marksurfaces      10420
         16962 surfedges         67848
          8482 edges             33928
-           25 textures         218664
+           27 textures         229632
               lightdata             0
               visdata               0
               entdata            5879
 
-0.793 seconds elapsed
-Peak memory usage: 25228884 (24.1M)
+0.842 seconds elapsed
+Peak memory usage: 25229724 (24.1M)
