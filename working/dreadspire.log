@@ -76,10 +76,10 @@ Wrote dreadspire.bsp
          5210 marksurfaces      10420
         16962 surfedges         67848
          8482 edges             33928
-           24 textures         229500
+           24 textures         213180
               lightdata             0
               visdata               0
               entdata            5879
 
-0.766 seconds elapsed
+0.765 seconds elapsed
 Peak memory usage: 25228804 (24.1M)
