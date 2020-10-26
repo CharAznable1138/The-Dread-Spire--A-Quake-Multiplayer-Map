@@ -6,7 +6,7 @@ Output file: dreadspire.bsp
 *** WARNING 05: No info_player_start entity in level
          3125 faces
           419 brushes
-           93 entities
+           74 entities
            27 unique texnames
           549 texinfo
 
@@ -62,16 +62,18 @@ Processing hull 0...
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
 Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote dreadspire.bsp
-         1549 planes            30980
+         1593 planes            31860
          4883 vertexes          58596
          1525 nodes             36600
           384 texinfo           15360
          3604 faces             72080
-         3925 clipnodes         31400
+         5602 clipnodes         44816
          1172 leafs             32816
          5232 marksurfaces      10464
         17102 surfedges         68408
@@ -79,7 +81,7 @@ Wrote dreadspire.bsp
            27 textures         213312
               lightdata             0
               visdata               0
-              entdata            5863
+              entdata            4554
 
-0.814 seconds elapsed
-Peak memory usage: 25415536 (24.2M)
+0.639 seconds elapsed
+Peak memory usage: 25681300 (24.5M)
