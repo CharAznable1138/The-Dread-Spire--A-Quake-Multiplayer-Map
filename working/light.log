@@ -31,7 +31,7 @@ Lighting Completed.
 lightdatasize: 40819
 0 switchable light styles (32 max)
 Writing dreadspire.bsp as BSP version 29
-0.614 seconds elapsed
+0.622 seconds elapsed
 
 stats:
 1.081475 lights tested, 0.812379 hits per sample point
