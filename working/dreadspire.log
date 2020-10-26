@@ -6,7 +6,7 @@ Output file: dreadspire.bsp
 *** WARNING 05: No info_player_start entity in level
          3125 faces
           419 brushes
-          119 entities
+          121 entities
            27 unique texnames
           549 texinfo
 
@@ -19,46 +19,46 @@ Processing hull 0...
           674 planes
 ---- CSGFaces ----
          2021 brushfaces
-         2721 csgfaces
-         3035 mergedfaces
+         2755 csgfaces
+         3037 mergedfaces
 ---- SolidBSP ----
-         2626 split nodes
-          790 solid leafs
-         1758 empty leafs
+         2622 split nodes
+          788 solid leafs
+         1756 empty leafs
             8 water leafs
            71 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         7274 leaffaces
-         6045 nodefaces
+         7286 leaffaces
+         6056 nodefaces
 ---- Portalize ----
-         1837 vis leafs
-         1837 vis clusters
-         5434 vis portals
+         1835 vis leafs
+         1835 vis clusters
+         5422 vis portals
 ---- FillOutside ----
-          481 outleafs
+          479 outleafs
 ---- MergeAll ----
-         3058 mergefaces
+         3054 mergefaces
 ---- SolidBSP ----
-         1147 split nodes
-          307 solid leafs
-          811 empty leafs
+         1149 split nodes
+          308 solid leafs
+          812 empty leafs
             4 water leafs
            26 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         5465 leaffaces
-         3793 nodefaces
+         5499 leaffaces
+         3798 nodefaces
 ---- Portalize ----
-          815 vis leafs
-          397 vis clusters
-         1214 vis portals
+          816 vis leafs
+          398 vis clusters
+         1213 vis portals
 ---- Tjunc ----
-         3012 world edges
-        11430 edge points
-         3901 edges added by tjunctions
+         3013 world edges
+        11439 edge points
+         3900 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -68,19 +68,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote dreadspire.bsp
          1549 planes            30980
-         4897 vertexes          58764
-         1519 nodes             36456
+         4901 vertexes          58812
+         1521 nodes             36504
           383 texinfo           15320
-         3609 faces             72180
-         3865 clipnodes         30920
-         1172 leafs             32816
-         5309 marksurfaces      10618
-        17140 surfedges         68560
-         8571 edges             34284
+         3614 faces             72280
+         3860 clipnodes         30880
+         1173 leafs             32844
+         5343 marksurfaces      10686
+        17158 surfedges         68632
+         8580 edges             34320
            27 textures         213312
               lightdata             0
               visdata               0
-              entdata            6231
+              entdata            6275
 
-0.739 seconds elapsed
-Peak memory usage: 26023934 (24.8M)
+0.791 seconds elapsed
+Peak memory usage: 26060422 (24.9M)

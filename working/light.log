@@ -6,16 +6,18 @@ LoadBSPFile: 'dreadspire.bsp'
 BSP is version 29
 Loaded extended texinfo flags from dreadspire.texinfo
 --- LoadEntities ---
+WARNING: entity at (472 -184 248) (light) has unmatched "target" (staircase1)
 WARNING: entity at (184 -424 88) (light) has unmatched "target" (stairs1)
 WARNING: entity at (8 -408 88) (light) has unmatched "target" (stairs2)
 WARNING: entity at (104 -328 88) (light) has unmatched "target" (stairs4)
 WARNING: entity at (88 -504 88) (light) has unmatched "target" (stairs3)
+WARNING: entity at (-280 -648 248) (light) has unmatched "target" (staircase2)
 91 entities read, 19 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	28 sky faces
-	3269 solid faces
+	3274 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 19 initial lights
@@ -28,12 +30,12 @@ Final count: 19 lights 0 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 40819
+lightdatasize: 40381
 0 switchable light styles (32 max)
 Writing dreadspire.bsp as BSP version 29
-0.622 seconds elapsed
+0.617 seconds elapsed
 
 stats:
-1.081475 lights tested, 0.812379 hits per sample point
+1.082667 lights tested, 0.814155 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
