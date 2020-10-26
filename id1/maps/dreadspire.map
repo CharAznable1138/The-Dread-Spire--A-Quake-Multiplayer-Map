@@ -3217,22 +3217,22 @@
 // entity 1
 {
 "classname" "item_shells"
-"origin" "-368 -880 208"
+"origin" "-364 -876 212"
 }
 // entity 2
 {
 "classname" "item_spikes"
-"origin" "528 16 208"
+"origin" "524 12 212"
 }
 // entity 3
 {
 "classname" "weapon_supernailgun"
-"origin" "288 -608 416"
+"origin" "288 -608 420"
 }
 // entity 4
 {
 "classname" "weapon_supershotgun"
-"origin" "-96 -224 416"
+"origin" "-96 -224 420"
 }
 // entity 5
 {
@@ -3243,79 +3243,79 @@
 // entity 6
 {
 "classname" "item_armor1"
-"origin" "288 -224 416"
+"origin" "288 -224 420"
 }
 // entity 7
 {
 "classname" "item_armor1"
-"origin" "-96 -608 416"
+"origin" "-96 -608 420"
 }
 // entity 8
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "2F Deathmatch Spawns"
-"_tb_id" "1"
+"_tb_id" "13"
 }
 // entity 9
 {
 "classname" "info_player_deathmatch"
 "origin" "16 32 440"
 "angle" "270"
-"_tb_group" "1"
+"_tb_group" "13"
 }
 // entity 10
 {
 "classname" "info_player_deathmatch"
 "origin" "176 16 440"
-"_tb_group" "1"
+"_tb_group" "13"
 }
 // entity 11
 {
 "classname" "info_player_deathmatch"
 "origin" "528 -336 440"
 "angle" "180"
-"_tb_group" "1"
+"_tb_group" "13"
 }
 // entity 12
 {
 "classname" "info_player_deathmatch"
 "origin" "544 -544 440"
 "angle" "180"
-"_tb_group" "1"
+"_tb_group" "13"
 }
 // entity 13
 {
 "classname" "info_player_deathmatch"
 "origin" "176 -848 440"
 "angle" "90"
-"_tb_group" "1"
+"_tb_group" "13"
 }
 // entity 14
 {
 "classname" "info_player_deathmatch"
 "origin" "16 -848 440"
 "angle" "180"
-"_tb_group" "1"
+"_tb_group" "13"
 }
 // entity 15
 {
 "classname" "info_player_deathmatch"
 "origin" "-336 -496 440"
-"_tb_group" "1"
+"_tb_group" "13"
 }
 // entity 16
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -288 440"
-"_tb_group" "1"
+"_tb_group" "13"
 }
 // entity 17
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "2"
+"_tb_id" "14"
 // brush 0
 {
 ( 320 0 408 ) ( 320 64 400 ) ( 320 64 408 ) clip 0 0 0 1 1
@@ -3538,7 +3538,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "3"
+"_tb_id" "15"
 // brush 0
 {
 ( -136 -896 408 ) ( -136 -832 400 ) ( -136 -832 408 ) clip 0 0 180 1 -1
@@ -3761,7 +3761,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "4"
+"_tb_id" "16"
 // brush 0
 {
 ( -384 -184 808 ) ( -384 -192 800 ) ( -384 -184 800 ) clip -48 16 180 1 -1
@@ -4192,12 +4192,12 @@
 // entity 37
 {
 "classname" "item_armor2"
-"origin" "-352 -864 816"
+"origin" "-348 -860 820"
 }
 // entity 38
 {
 "classname" "item_armor2"
-"origin" "544 32 816"
+"origin" "540 28 820"
 }
 // entity 39
 {
@@ -4215,7 +4215,7 @@
 // entity 40
 {
 "classname" "weapon_grenadelauncher"
-"origin" "96 -416 816"
+"origin" "96 -416 820"
 }
 // entity 41
 {
@@ -4363,77 +4363,77 @@
 // entity 52
 {
 "classname" "item_spikes"
-"origin" "-112 -320 16"
+"origin" "-112 -320 20"
 }
 // entity 53
 {
 "classname" "item_spikes"
-"origin" "-32 -240 16"
+"origin" "-32 -240 20"
 }
 // entity 54
 {
 "classname" "item_shells"
-"origin" "192 -624 16"
+"origin" "192 -624 20"
 }
 // entity 55
 {
 "classname" "item_shells"
-"origin" "272 -544 16"
+"origin" "272 -544 20"
 }
 // entity 56
 {
 "classname" "item_armorInv"
-"origin" "96 -416 80"
+"origin" "96 -416 84"
 }
 // entity 57
 {
 "classname" "item_health"
-"origin" "528 -880 16"
+"origin" "524 -876 20"
 }
 // entity 58
 {
 "classname" "item_health"
-"origin" "-368 16 16"
+"origin" "-364 12 20"
 }
 // entity 59
 {
 "classname" "item_health"
-"origin" "-304 -800 16"
+"origin" "-304 -800 20"
 }
 // entity 60
 {
 "classname" "item_health"
-"origin" "464 -64 16"
+"origin" "464 -64 20"
 }
 // entity 61
 {
 "classname" "item_shells"
-"origin" "352 -624 16"
+"origin" "352 -624 20"
 }
 // entity 62
 {
 "classname" "item_shells"
-"origin" "272 -704 16"
+"origin" "272 -704 20"
 }
 // entity 63
 {
 "classname" "item_spikes"
-"origin" "-192 -240 16"
+"origin" "-192 -240 20"
 }
 // entity 64
 {
 "classname" "item_spikes"
-"origin" "-112 -160 16"
+"origin" "-112 -160 20"
 }
 // entity 65
 {
 "classname" "weapon_nailgun"
-"origin" "-96 -864 16"
+"origin" "-92 -860 20"
 }
 // entity 66
 {
 "classname" "weapon_nailgun"
-"origin" "288 32 16"
+"origin" "284 28 20"
 }
 // entity 67
 {
@@ -4780,4 +4780,14 @@
 ( 62.976689976690295 -480.02964743589826 805.07204254079318 ) ( 62.976689976690295 -480.02964743589826 802.89831002331039 ) ( 65.875 -480.02964743589826 802.89831002331039 ) metal2_8 -45.8293 3.18286 0 0.362289 0.362289
 ( 120 -487.63771124708637 801.81144376456916 ) ( 120 -488 802.89831002331039 ) ( 120 -488 805.07204254079318 ) metal2_7 13 12 180 1 -1
 }
+}
+// entity 74
+{
+"classname" "item_shells"
+"origin" "448 -816 420"
+}
+// entity 75
+{
+"classname" "item_spikes"
+"origin" "-288 -48 420"
 }
