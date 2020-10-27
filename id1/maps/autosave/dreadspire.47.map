@@ -2372,11 +2372,13 @@
 {
 "classname" "weapon_supernailgun"
 "origin" "288 -608 420"
+"targetname" "supernailgun"
 }
 // entity 4
 {
 "classname" "weapon_supershotgun"
 "origin" "-96 -224 420"
+"targetname" "supershotgun"
 }
 // entity 5
 {
@@ -2399,67 +2401,67 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "2F Deathmatch Spawns"
-"_tb_id" "25"
+"_tb_id" "57"
 }
 // entity 9
 {
 "classname" "info_player_deathmatch"
 "origin" "16 32 440"
 "angle" "270"
-"_tb_group" "25"
+"_tb_group" "57"
 }
 // entity 10
 {
 "classname" "info_player_deathmatch"
 "origin" "176 16 440"
-"_tb_group" "25"
+"_tb_group" "57"
 }
 // entity 11
 {
 "classname" "info_player_deathmatch"
 "origin" "528 -336 440"
 "angle" "180"
-"_tb_group" "25"
+"_tb_group" "57"
 }
 // entity 12
 {
 "classname" "info_player_deathmatch"
 "origin" "544 -544 440"
 "angle" "180"
-"_tb_group" "25"
+"_tb_group" "57"
 }
 // entity 13
 {
 "classname" "info_player_deathmatch"
 "origin" "176 -848 440"
 "angle" "90"
-"_tb_group" "25"
+"_tb_group" "57"
 }
 // entity 14
 {
 "classname" "info_player_deathmatch"
 "origin" "16 -848 440"
 "angle" "180"
-"_tb_group" "25"
+"_tb_group" "57"
 }
 // entity 15
 {
 "classname" "info_player_deathmatch"
 "origin" "-336 -496 440"
-"_tb_group" "25"
+"_tb_group" "57"
 }
 // entity 16
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -288 440"
-"_tb_group" "25"
+"_tb_group" "57"
 }
 // entity 17
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "26"
+"_tb_id" "58"
 // brush 0
 {
 ( 320 0 408 ) ( 320 64 400 ) ( 320 64 408 ) clip 0 0 0 1 1
@@ -2682,7 +2684,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "27"
+"_tb_id" "59"
 // brush 0
 {
 ( -136 -896 408 ) ( -136 -832 400 ) ( -136 -832 408 ) clip 0 0 180 1 -1
@@ -2905,7 +2907,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "28"
+"_tb_id" "60"
 // brush 0
 {
 ( -384 -184 808 ) ( -384 -192 800 ) ( -384 -184 800 ) clip -48 16 180 1 -1
@@ -5068,5 +5070,106 @@
 // entity 123
 {
 "classname" "light"
-"origin" "280 -216 424"
+"origin" "296 -216 584"
+"light" "250"
+"wait" "0.5"
+}
+// entity 124
+{
+"classname" "light"
+"origin" "296 -616 584"
+"light" "250"
+"wait" "0.5"
+}
+// entity 125
+{
+"classname" "light"
+"origin" "-104 -616 584"
+"light" "250"
+"wait" "0.5"
+}
+// entity 126
+{
+"classname" "light"
+"origin" "-104 -200 584"
+"light" "250"
+"wait" "0.5"
+}
+// entity 127
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-140 -180 412"
+}
+// entity 128
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-52 -180 412"
+}
+// entity 129
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-52 -268 412"
+}
+// entity 130
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-140 -268 412"
+}
+// entity 131
+{
+"classname" "light_torch_small_walltorch"
+"origin" "244 -652 412"
+}
+// entity 132
+{
+"classname" "light_torch_small_walltorch"
+"origin" "244 -564 412"
+}
+// entity 133
+{
+"classname" "light_torch_small_walltorch"
+"origin" "332 -564 412"
+}
+// entity 134
+{
+"classname" "light_torch_small_walltorch"
+"origin" "332 -652 412"
+}
+// entity 135
+{
+"classname" "light"
+"origin" "-264 -776 712"
+"light" "250"
+"wait" "0.5"
+}
+// entity 136
+{
+"classname" "light"
+"origin" "456 -56 712"
+"light" "250"
+"wait" "0.5"
+}
+// entity 137
+{
+"classname" "light"
+"origin" "-56 -56 712"
+"light" "250"
+"wait" "0.5"
+}
+// entity 138
+{
+"classname" "light"
+"origin" "248 -776 712"
+"light" "250"
+"wait" "0.5"
+}
+// entity 139
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-380 20 684"
+}
+// entity 140
+{
+"classname" "light_torch_small_walltorch"
+"origin" "572 -852 684"
 }

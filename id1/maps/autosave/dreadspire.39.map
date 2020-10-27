@@ -3255,67 +3255,67 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "2F Deathmatch Spawns"
-"_tb_id" "61"
+"_tb_id" "97"
 }
 // entity 9
 {
 "classname" "info_player_deathmatch"
 "origin" "16 32 440"
 "angle" "270"
-"_tb_group" "61"
+"_tb_group" "97"
 }
 // entity 10
 {
 "classname" "info_player_deathmatch"
 "origin" "176 16 440"
-"_tb_group" "61"
+"_tb_group" "97"
 }
 // entity 11
 {
 "classname" "info_player_deathmatch"
 "origin" "528 -336 440"
 "angle" "180"
-"_tb_group" "61"
+"_tb_group" "97"
 }
 // entity 12
 {
 "classname" "info_player_deathmatch"
 "origin" "544 -544 440"
 "angle" "180"
-"_tb_group" "61"
+"_tb_group" "97"
 }
 // entity 13
 {
 "classname" "info_player_deathmatch"
 "origin" "176 -848 440"
 "angle" "90"
-"_tb_group" "61"
+"_tb_group" "97"
 }
 // entity 14
 {
 "classname" "info_player_deathmatch"
 "origin" "16 -848 440"
 "angle" "180"
-"_tb_group" "61"
+"_tb_group" "97"
 }
 // entity 15
 {
 "classname" "info_player_deathmatch"
 "origin" "-336 -496 440"
-"_tb_group" "61"
+"_tb_group" "97"
 }
 // entity 16
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -288 440"
-"_tb_group" "61"
+"_tb_group" "97"
 }
 // entity 17
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "62"
+"_tb_id" "98"
 // brush 0
 {
 ( 320 0 408 ) ( 320 64 400 ) ( 320 64 408 ) clip 0 0 0 1 1
@@ -3538,7 +3538,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "63"
+"_tb_id" "99"
 // brush 0
 {
 ( -136 -896 408 ) ( -136 -832 400 ) ( -136 -832 408 ) clip 0 0 180 1 -1
@@ -3761,7 +3761,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "64"
+"_tb_id" "100"
 // brush 0
 {
 ( -384 -184 808 ) ( -384 -192 800 ) ( -384 -184 800 ) clip -48 16 180 1 -1
@@ -4794,24 +4794,25 @@
 // entity 76
 {
 "classname" "light_torch_small_walltorch"
-"origin" "-292 -804 92"
-"angle" "90"
+"origin" "-284 -812 92"
+"angle" "270"
 }
 // entity 77
 {
 "classname" "light_torch_small_walltorch"
-"origin" "-124 -852 92"
+"origin" "-116 -844 92"
+"angle" "180"
 }
 // entity 78
 {
 "classname" "light"
-"origin" "536 -856 376"
+"origin" "456 -712 264"
 "wait" "0.5"
 }
 // entity 79
 {
 "classname" "light"
-"origin" "-344 24 376"
+"origin" "-216 -88 264"
 "wait" "0.5"
 }
 // entity 80
@@ -4823,8 +4824,8 @@
 // entity 81
 {
 "classname" "light_torch_small_walltorch"
-"origin" "484 -28 92"
-"angle" "270"
+"origin" "484 -20 92"
+"angle" "180"
 }
 // entity 82
 {
@@ -4863,6 +4864,21 @@
 // entity 87
 {
 "classname" "light_torch_small_walltorch"
-"origin" "-340 -884 268"
-"angle" "90"
+"origin" "-348 -892 284"
+"angle" "270"
+}
+// entity 88
+{
+"classname" "light_torch_small_walltorch"
+"origin" "540 60 284"
+}
+// entity 89
+{
+"classname" "light"
+"origin" "552 -344 280"
+}
+// entity 90
+{
+"classname" "light"
+"origin" "-360 -488 280"
 }
