@@ -2399,67 +2399,67 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "2F Deathmatch Spawns"
-"_tb_id" "373"
+"_tb_id" "21"
 }
 // entity 9
 {
 "classname" "info_player_deathmatch"
 "origin" "16 32 440"
 "angle" "270"
-"_tb_group" "373"
+"_tb_group" "21"
 }
 // entity 10
 {
 "classname" "info_player_deathmatch"
 "origin" "176 16 440"
-"_tb_group" "373"
+"_tb_group" "21"
 }
 // entity 11
 {
 "classname" "info_player_deathmatch"
 "origin" "528 -336 440"
 "angle" "180"
-"_tb_group" "373"
+"_tb_group" "21"
 }
 // entity 12
 {
 "classname" "info_player_deathmatch"
 "origin" "544 -544 440"
 "angle" "180"
-"_tb_group" "373"
+"_tb_group" "21"
 }
 // entity 13
 {
 "classname" "info_player_deathmatch"
 "origin" "176 -848 440"
 "angle" "90"
-"_tb_group" "373"
+"_tb_group" "21"
 }
 // entity 14
 {
 "classname" "info_player_deathmatch"
 "origin" "16 -848 440"
 "angle" "180"
-"_tb_group" "373"
+"_tb_group" "21"
 }
 // entity 15
 {
 "classname" "info_player_deathmatch"
 "origin" "-336 -496 440"
-"_tb_group" "373"
+"_tb_group" "21"
 }
 // entity 16
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -288 440"
-"_tb_group" "373"
+"_tb_group" "21"
 }
 // entity 17
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "374"
+"_tb_id" "22"
 // brush 0
 {
 ( 320 0 408 ) ( 320 64 400 ) ( 320 64 408 ) clip 0 0 0 1 1
@@ -2682,7 +2682,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "375"
+"_tb_id" "23"
 // brush 0
 {
 ( -136 -896 408 ) ( -136 -832 400 ) ( -136 -832 408 ) clip 0 0 180 1 -1
@@ -2905,7 +2905,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "376"
+"_tb_id" "24"
 // brush 0
 {
 ( -384 -184 808 ) ( -384 -192 800 ) ( -384 -184 800 ) clip -48 16 180 1 -1
@@ -3950,16 +3950,16 @@
 // entity 78
 {
 "classname" "light"
-"origin" "456 -776 200"
+"origin" "440 -760 200"
 "wait" "0.5"
-"light" "260"
+"light" "200"
 }
 // entity 79
 {
 "classname" "light"
-"origin" "-264 -56 200"
+"origin" "-200 -72 200"
 "wait" "0.5"
-"light" "260"
+"light" "200"
 }
 // entity 80
 {
@@ -5054,4 +5054,14 @@
 "origin" "-280 -648 248"
 "wait" "0.75"
 "target" "staircase2"
+}
+// entity 121
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-356 60 92"
+}
+// entity 122
+{
+"classname" "light_torch_small_walltorch"
+"origin" "548 -892 92"
 }
