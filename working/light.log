@@ -6,13 +6,15 @@ LoadBSPFile: 'dreadspire.bsp'
 BSP is version 29
 Loaded extended texinfo flags from dreadspire.texinfo
 --- LoadEntities ---
+WARNING: entity at (288 -608 420) (weapon_supernailgun) has targetname "supernailgun" which is not targetted by anything.
+WARNING: entity at (-96 -224 420) (weapon_supershotgun) has targetname "supershotgun" which is not targetted by anything.
 WARNING: entity at (472 -184 248) (light) has unmatched "target" (staircase1)
 WARNING: entity at (184 -424 88) (light) has unmatched "target" (stairs1)
 WARNING: entity at (8 -408 88) (light) has unmatched "target" (stairs2)
 WARNING: entity at (104 -328 88) (light) has unmatched "target" (stairs4)
 WARNING: entity at (88 -504 88) (light) has unmatched "target" (stairs3)
 WARNING: entity at (-280 -648 248) (light) has unmatched "target" (staircase2)
-93 entities read, 21 are lights.
+126 entities read, 54 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
@@ -20,22 +22,22 @@ Embree_TraceInit:
 	3274 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 21 initial lights
-SetupLights: 21 after surface lights
-SetupLights: 21 after jittering
+SetupLights: 54 initial lights
+SetupLights: 54 after surface lights
+SetupLights: 54 after jittering
 --- EstimateLightVisibility ---
-0....1....2....3....4....5....6....7....8....9..
-Final count: 21 lights 0 suns in use.
+0....1....2....3....4....5....6....7....8....9....
+Final count: 54 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 40307
+lightdatasize: 86046
 0 switchable light styles (32 max)
 Writing dreadspire.bsp as BSP version 29
-0.532 seconds elapsed
+0.639 seconds elapsed
 
 stats:
-1.043602 lights tested, 0.831747 hits per sample point
+3.347500 lights tested, 2.502695 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
