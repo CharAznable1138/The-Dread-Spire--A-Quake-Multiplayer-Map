@@ -2401,67 +2401,67 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "2F Deathmatch Spawns"
-"_tb_id" "149"
+"_tb_id" "25"
 }
 // entity 9
 {
 "classname" "info_player_deathmatch"
 "origin" "16 32 440"
 "angle" "270"
-"_tb_group" "149"
+"_tb_group" "25"
 }
 // entity 10
 {
 "classname" "info_player_deathmatch"
 "origin" "176 16 440"
-"_tb_group" "149"
+"_tb_group" "25"
 }
 // entity 11
 {
 "classname" "info_player_deathmatch"
 "origin" "528 -336 440"
 "angle" "180"
-"_tb_group" "149"
+"_tb_group" "25"
 }
 // entity 12
 {
 "classname" "info_player_deathmatch"
 "origin" "544 -544 440"
 "angle" "180"
-"_tb_group" "149"
+"_tb_group" "25"
 }
 // entity 13
 {
 "classname" "info_player_deathmatch"
 "origin" "176 -848 440"
 "angle" "90"
-"_tb_group" "149"
+"_tb_group" "25"
 }
 // entity 14
 {
 "classname" "info_player_deathmatch"
 "origin" "16 -848 440"
 "angle" "180"
-"_tb_group" "149"
+"_tb_group" "25"
 }
 // entity 15
 {
 "classname" "info_player_deathmatch"
 "origin" "-336 -496 440"
-"_tb_group" "149"
+"_tb_group" "25"
 }
 // entity 16
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -288 440"
-"_tb_group" "149"
+"_tb_group" "25"
 }
 // entity 17
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "150"
+"_tb_id" "26"
 // brush 0
 {
 ( 320 0 408 ) ( 320 64 400 ) ( 320 64 408 ) clip 0 0 0 1 1
@@ -2684,7 +2684,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "151"
+"_tb_id" "27"
 // brush 0
 {
 ( -136 -896 408 ) ( -136 -832 400 ) ( -136 -832 408 ) clip 0 0 180 1 -1
@@ -2907,7 +2907,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "152"
+"_tb_id" "28"
 // brush 0
 {
 ( -384 -184 808 ) ( -384 -192 800 ) ( -384 -184 800 ) clip -48 16 180 1 -1
@@ -5246,29 +5246,27 @@
 {
 "classname" "light"
 "origin" "96 -72 904"
-"light" "200"
+"light" "230"
 "wait" "0.5"
 }
 // entity 153
 {
 "classname" "light"
 "origin" "96 -760 904"
-"light" "200"
+"light" "230"
 "wait" "0.5"
 }
 // entity 154
 {
 "classname" "light"
 "origin" "440 -416 904"
-"light" "200"
+"light" "230"
 "wait" "0.5"
-"angle" "270"
 }
 // entity 155
 {
 "classname" "light"
 "origin" "-248 -416 904"
-"light" "200"
+"light" "230"
 "wait" "0.5"
-"angle" "270"
 }
