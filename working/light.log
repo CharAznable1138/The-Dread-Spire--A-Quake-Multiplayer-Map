@@ -14,7 +14,7 @@ WARNING: entity at (8 -408 88) (light) has unmatched "target" (stairs2)
 WARNING: entity at (104 -328 88) (light) has unmatched "target" (stairs4)
 WARNING: entity at (88 -504 88) (light) has unmatched "target" (stairs3)
 WARNING: entity at (-280 -648 248) (light) has unmatched "target" (staircase2)
-145 entities read, 73 are lights.
+146 entities read, 74 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
@@ -22,12 +22,12 @@ Embree_TraceInit:
 	3274 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 73 initial lights
-SetupLights: 73 after surface lights
-SetupLights: 73 after jittering
+SetupLights: 74 initial lights
+SetupLights: 74 after surface lights
+SetupLights: 74 after jittering
 --- EstimateLightVisibility ---
 0....1....2....3....4....5....6....7....8....9....
-Final count: 73 lights 0 suns in use.
+Final count: 74 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
@@ -35,9 +35,9 @@ Lighting Completed.
 lightdatasize: 86502
 0 switchable light styles (32 max)
 Writing dreadspire.bsp as BSP version 29
-0.678 seconds elapsed
+0.669 seconds elapsed
 
 stats:
-3.488555 lights tested, 2.634535 hits per sample point
+3.510424 lights tested, 2.649490 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

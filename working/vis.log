@@ -13,7 +13,7 @@ Calculating Full Vis:
 Expanding clusters...
 average leafs visible: 672
 c_noclip: 0
-c_chains: 3972420
+c_chains: 3965878
 visdatasize:37036  compressed from 83232
 Writing dreadspire.bsp as BSP version 29
-  2.2 seconds elapsed
+  2.1 seconds elapsed

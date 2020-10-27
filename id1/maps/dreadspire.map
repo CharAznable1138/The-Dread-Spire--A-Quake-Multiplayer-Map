@@ -2401,67 +2401,67 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "2F Deathmatch Spawns"
-"_tb_id" "61"
+"_tb_id" "65"
 }
 // entity 9
 {
 "classname" "info_player_deathmatch"
 "origin" "16 32 440"
 "angle" "270"
-"_tb_group" "61"
+"_tb_group" "65"
 }
 // entity 10
 {
 "classname" "info_player_deathmatch"
 "origin" "176 16 440"
-"_tb_group" "61"
+"_tb_group" "65"
 }
 // entity 11
 {
 "classname" "info_player_deathmatch"
 "origin" "528 -336 440"
 "angle" "180"
-"_tb_group" "61"
+"_tb_group" "65"
 }
 // entity 12
 {
 "classname" "info_player_deathmatch"
 "origin" "544 -544 440"
 "angle" "180"
-"_tb_group" "61"
+"_tb_group" "65"
 }
 // entity 13
 {
 "classname" "info_player_deathmatch"
 "origin" "176 -848 440"
 "angle" "90"
-"_tb_group" "61"
+"_tb_group" "65"
 }
 // entity 14
 {
 "classname" "info_player_deathmatch"
 "origin" "16 -848 440"
 "angle" "180"
-"_tb_group" "61"
+"_tb_group" "65"
 }
 // entity 15
 {
 "classname" "info_player_deathmatch"
 "origin" "-336 -496 440"
-"_tb_group" "61"
+"_tb_group" "65"
 }
 // entity 16
 {
 "classname" "info_player_deathmatch"
 "origin" "-352 -288 440"
-"_tb_group" "61"
+"_tb_group" "65"
 }
 // entity 17
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "62"
+"_tb_id" "66"
 // brush 0
 {
 ( 320 0 408 ) ( 320 64 400 ) ( 320 64 408 ) clip 0 0 0 1 1
@@ -2684,7 +2684,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "63"
+"_tb_id" "67"
 // brush 0
 {
 ( -136 -896 408 ) ( -136 -832 400 ) ( -136 -832 408 ) clip 0 0 180 1 -1
@@ -2907,7 +2907,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Staircase Clips"
-"_tb_id" "64"
+"_tb_id" "68"
 // brush 0
 {
 ( -384 -184 808 ) ( -384 -192 800 ) ( -384 -184 800 ) clip -48 16 180 1 -1
@@ -5274,19 +5274,19 @@
 {
 "classname" "light"
 "origin" "552 -488 88"
-"light" "100"
+"light" "150"
 }
 // entity 157
 {
 "classname" "light"
 "origin" "168 -872 88"
-"light" "100"
+"light" "150"
 }
 // entity 158
 {
 "classname" "light"
 "origin" "-360 -344 88"
-"light" "100"
+"light" "150"
 }
 // entity 159
 {
@@ -5387,4 +5387,10 @@
 "classname" "light"
 "origin" "520 -136 936"
 "light" "200"
+}
+// entity 175
+{
+"classname" "light"
+"origin" "24 40 88"
+"light" "150"
 }
